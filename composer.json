@@ -1,0 +1,15 @@
+{
+	"name": "peesoft/yii",
+	"type": "library",
+	"bin": [
+		"framework/yiic"
+	],
+	"require": {
+		"php": ">=5.1.0"
+	},
+	"require-dev": {
+		"phpunit/phpunit": "~4.8.34",
+		"phpunit/phpunit-selenium": "~1.4.0",
+		"phing/phing": "2.*"
+	}
+}

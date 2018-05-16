@@ -1,0 +1,4 @@
+#!/usr/bin/env php
+<?php
+
+echo 'Yii v1 works!' . "\n";
