@@ -1,4 +1,4 @@
 #!/usr/bin/env php
 <?php
 
-echo 'Yii v1.1.19 works!' . "\n";
+echo 'Yii v1.1.20-dev works!' . "\n";
